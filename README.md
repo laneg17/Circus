@@ -2,8 +2,8 @@
 
 **Running the Program**
 1. JES 6.0 required to run [GitHub JES](https://github.com/gatech-csl/jes/releases)
-2. Open LaneGingras_Circus.py with Jes
-3. Select "Load Program" in lower left of Jes interface
+2. Open LaneGingras_Circus.py with JES
+3. Select "Load Program" in lower left of JES interface
 4. Enter "main();" (without quotations) in console
 
 
