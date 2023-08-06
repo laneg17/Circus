@@ -9,6 +9,7 @@
 
 **About the Program**
 
+
 This program demonstrates different photo manipulation features of JES. A goal I had with this project was to add a framework in which to present these features, and I decided on it being an amusement park with different attractions.
 
 
