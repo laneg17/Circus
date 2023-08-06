@@ -265,9 +265,9 @@ def drawShapes ():
   
   
   #asks user how long the delay between making another shape should be
-  delay = requestNumber ("How long would you like the *delay* between shapes drawn to be?\n\n0-10 seconds supported")
-  while (delay < 0 or delay > 10):
-    delay = requestNumber ("Error: The delay may only be 0-10 seconds.\n\nHow long would you like the *delay* between shapes drawn to be?\n\n0-10 seconds supported")
+  delay = requestNumber ("How long would you like the *delay* between shapes drawn to be?\n\n0-1 seconds (Decimals supported)")
+  while (delay < 0 or delay > 1):
+    delay = requestNumber ("Error: The delay may only be 0-1 seconds.\n\nHow long would you like the *delay* between shapes drawn to be?\n\n0-1 seconds (Decimals supported)")
   
   
   #The shapes will get bigger with the canvas reshreshing based on user inputted delay
